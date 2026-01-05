@@ -1,0 +1,30 @@
+# data / outputs
+data/
+dataDeformed/
+*.nii
+*.nii.gz
+*.nrrd
+*.mha
+*.mhd
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.h5
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.env
+venv/
+.venv/
+conda/
+environment.yml
+
+# OS / editor
+.vscode/
+.DS_Store

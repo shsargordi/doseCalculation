@@ -1,0 +1,23 @@
+name: dose
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - tqdm
+  - nibabel
+  - SimpleITK
+  - glob2
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-lightning
+  - monai
+  - pip:
+      - torchmetrics
+      - lightning
