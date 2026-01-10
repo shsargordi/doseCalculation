@@ -25,7 +25,7 @@ and produces:
     - **per-structure DVH metrics** computed separately for each target volume and each OAR
 
 For additional details on the methodology and evaluation protocol, please refer to the paper included in this repository:  
-`/....../doseCalculation/dosePred.pdf`
+`/....../doseCalculation/article.pdf`
 
 
 
