@@ -1,4 +1,4 @@
-# Head & Neck Dose Prediction on CT
+# Head & Neck Dose Prediction on CT (real or synthetic)/ CBCT
 
 This repository provides code and pretrained weights for dose distribution prediction in Head & Neck Cancer (HNC) radiotherapy.
 
